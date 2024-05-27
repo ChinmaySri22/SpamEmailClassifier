@@ -3,6 +3,7 @@
 This is a spam email classifier which is successfully able to distinguish between spam and ham (not spam) mails which are in the dataset.
 
 List of the major libraries used in the script:
+
 1.NumPy
 2.Pandas
 3.Matplotlib
@@ -14,6 +15,7 @@ List of the major libraries used in the script:
 9.Streamlit (for user interface)
 
 How to run:
+
 **Step 1. Make a new project in Pycharm
 Step 2. paste the app.py text in main .py file.
 Step 3. put all the .plk files in the directory.
